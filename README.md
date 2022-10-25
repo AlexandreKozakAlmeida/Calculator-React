@@ -17,4 +17,9 @@ Interaja com o projeto em: https://alexandrekozakalmeida.github.io/Calculator-Re
 
 
 
+## Video demonstrativo:
+
+https://user-images.githubusercontent.com/98601344/197889688-3301f848-3f60-4c74-945f-2f92f52e5fde.mp4
+
+
 
